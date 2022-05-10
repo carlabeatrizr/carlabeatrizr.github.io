@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(255, 166, 196);
+}
+
+h2{
+    background-color: palevioletred
+}
+
+h1{ color: rgb(255, 166, 196);
+
+}
+
+h3{
+    background-color: rgb(74, 116, 255);
+}
+
+
+p{
+font-family:'Courier New', Courier, monospace
+}
+
+.item-one{
+    font-size: 20px;
+}
+.item-two{
+    font-size: 30px;
+}
+.item-three{
+    font-size: 25px;
+}
+.item-for{
+    font-size: 17px;
+}
+.item-five{
+    font-size: 35px;
+}
+
+#paragraph{
+background-color: rgb(120, 186, 120);
+}
