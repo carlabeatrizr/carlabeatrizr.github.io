@@ -39,3 +39,24 @@ font-family:'Courier New', Courier, monospace
 #paragraph{
 background-color: rgb(120, 186, 120);
 }
+.meu-nome{
+    position: absolute;
+    right: 200px;
+    top: 300px;
+}
+.foto{
+    float: left;
+    height:auto;
+    padding:;
+    background-color: green;
+}
+.img-div{
+    height: 300px;
+    margin-left: auto;
+}
+div{
+    border: 2px solid green;
+}
+ul li:nth-child(odd){
+    background-color: aqua;
+}
